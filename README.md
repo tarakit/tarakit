@@ -11,7 +11,7 @@ https://github-profile-trophy.vercel.app/?username=tarakit&theme=onedark
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarakit](https://github.com/tarakit)
 
-- 💬 Ask me about **Database,**
+- 💬 Ask me about **Database, Project Analyze and Mobile App Development**
 
 - 📫 How to reach me **https://www.facebook.com/tarakit**
 
