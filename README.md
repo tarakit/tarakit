@@ -21,7 +21,7 @@ https://github-profile-trophy.vercel.app/?username=tarakit&theme=onedark
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tarakit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarakit" height="30" width="40" /></a>
+<a href="facebook.com/drksearcherz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarakit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kit-tara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kit-tara" height="30" width="40" /></a>
 </p>
 
